@@ -18,7 +18,7 @@ conf.addEventListener('mouseleave', () => {
     conf.style.backgroundPosition = "-150px";
 });
 conf_z.addEventListener('mouseover', () => {
-    conf_z.innerHTML = "7way l mimat";
+    conf_z.innerHTML = "No comment .";
     conf_z.style.background = "black";
 });
 conf_z.addEventListener('mouseleave', () => {
